@@ -18,9 +18,7 @@ public class CuentasXcobrar {
         // TODO code application logic here
         System.out.println("HOLA MUNDOOO");
         
-        System.out.println("SOY EDISSON");
-        
-        System.out.println("Codigo enviado desde GitHub a Java");
+        System.out.println("SOY EDISSON_C");
     }
     
 }
