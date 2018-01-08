@@ -19,6 +19,8 @@ public class CuentasXcobrar {
         System.out.println("HOLA MUNDOOO");
         
         System.out.println("SOY EDISSON");
+        
+        System.out.println("Codigo enviado desde GitHub a Java");
     }
     
 }
