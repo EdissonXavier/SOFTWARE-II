@@ -18,7 +18,7 @@ public class CuentasXcobrar {
         // TODO code application logic here
         System.out.println("HOLA MUNDOOO");
         
-        System.out.println("SOY EDISSON_C");
+        System.out.println("SOY EDISSON");
     }
     
 }
